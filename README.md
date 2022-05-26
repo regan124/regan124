@@ -11,7 +11,7 @@
    - Awardee of Beasiswa Unggulan Kemdikbud 2020
    - Asistant Laboratorium of Basic Electronics & Electrical Sircuits
    - Vice Head of Spiritual Department of Himpunan Mahasiswa Elektro (HME) FT
-#### [<img align="left" alt="Smanpala" width="30px" src="https://sman4lahat.sch.id/wp-content/gambar/logo-sman4lahat-colour-3000x3000.png" style="padding-right:10px;" />][SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Kebumen `2016 - 2019`
+#### [<img align="left" alt="Smanpala" width="30px" src="http://sman4lahat.sch.id/wp-content/uploads/2019/06/LOGO.png" style="padding-right:10px;" />][SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Kebumen `2016 - 2019`
    - Head of Da'wah Media Division of Dewan Kegiatan Masjid (DKM)
    - Islamic Education Mentor of Liqo'
 
