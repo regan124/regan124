@@ -7,18 +7,18 @@
 
 ## Education:
 
-#### 1. [Universitas Sriwijaya](https://unsri.ac.id) | Undergraduate Student of Electrical Engineering | Indralaya `2019 - Now`
+#### [<img align="left" alt="UNSRI" width="30px" src="https://report.unsri.ac.id/index.php/public/image/show/f10001/i0003/j0003/3" style="padding-right:10px;" />][Universitas Sriwijaya](https://unsri.ac.id) | Undergraduate Student of Electrical Engineering | Indralaya `2019 - Now`
    - Awardee of Beasiswa Unggulan Kemdikbud 2020
    - Asistant Laboratorium of Basic Electronics & Electrical Sircuits
    - Vice Head of Spiritual Department of Himpunan Mahasiswa Elektro (HME) FT
-#### 2. [SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Kebumen `2016 - 2019`
+#### [<img align="left" alt="Smanpala" width="30px" src="https://sman4lahat.sch.id/wp-content/gambar/logo-sman4lahat-colour-3000x3000.png" style="padding-right:10px;" />][SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Kebumen `2016 - 2019`
    - Head of Da'wah Media Division of Dewan Kegiatan Masjid (DKM)
    - Islamic Education Mentor of Liqo'
 
 ## Work Experience:
-#### 1. [<img align="left" alt="PUSRI" width="30px" src="https://logoeazy.com/wp-content/uploads/2021/05/logo-pusri.png" style="padding-right:10px;" />][webdev][PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022`
+#### [<img align="left" alt="PUSRI" width="30px" src="https://logoeazy.com/wp-content/uploads/2021/05/logo-pusri.png" style="padding-right:10px;" />][webdev][PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022`
    - 
-#### 2. [Bangkit Academy](https://grow.google) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Now`
+#### [<img align="left" alt="Bangkit" width="30px" src="https://yt3.ggpht.com/YRg_vXnxrn5WlaImgTpgKZVwDfgVZtdYLK0wPgXjalvVB_83znmGy8FjAiDzCmxKPJ_Nmnbkpg=s900-c-k-c0x00ffffff-no-rj" style="padding-right:10px;" />][webdev][Bangkit Academy](https://grow.google) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Now`
    - Learn machine learning using TensorFlow
    - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller
    - Working Real-World Project (Capstone-project)
