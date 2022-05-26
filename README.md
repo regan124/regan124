@@ -1,5 +1,7 @@
 # Hi there, I'm Regan Agam 👋
 ## About me:
+I'm an undergraduate student of electrical engineering in concentration of control and computer engineering. I'm an organized and self-motivated human with vision to become a usefull person in the future. I've interest to learn new things for self-improvments and self-goal achievements.
+
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for suggest for Automation and Data Scientist
 - 💬 Ask me about anything
