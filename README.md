@@ -47,8 +47,8 @@ I'm an undergraduate student of electrical engineering in concentration of contr
 ---
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/reganagam#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/reganagam#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/reganagam/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/reganagam/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/rgnagam#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/rgnagam#gh-dark-mode-only)
