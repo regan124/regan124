@@ -13,7 +13,7 @@ I'm an undergraduate student of electrical engineering in concentration of contr
    - Awardee of Beasiswa Unggulan Kemdikbud 2020
    - Asistant Laboratorium of Basic Electronics & Electrical Sircuits
    - Vice Head of Spiritual Department of Himpunan Mahasiswa Elektro (HME) FT
-#### 2. [SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Kebumen `2016 - 2019`
+#### 2. [SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Lahat `2016 - 2019`
    - Head of Da'wah Media Division of Dewan Kegiatan Masjid (DKM)
    - Islamic Education Mentor of Liqo'
 
