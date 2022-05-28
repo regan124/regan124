@@ -24,7 +24,7 @@ I'm an undergraduate student of electrical engineering in concentration of contr
    - Learn machine learning using TensorFlow
    - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller
    - Working Real-World Project (Capstone-project)
-   - Making Skinr App as Product-based capstone for the project
+   - Making Skinkr App as Product-based capstone for the project
 ---
 
 ### Languages and Tools:
