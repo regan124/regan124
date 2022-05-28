@@ -20,7 +20,7 @@ I'm an undergraduate student of electrical engineering in concentration of contr
 ## Work Experience:
 #### 1. [PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022`
    - 
-#### 2. [Bangkit Academy](https://grow.google) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Now`
+#### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Now`
    - Learn machine learning using TensorFlow
    - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller
    - Working Real-World Project (Capstone-project)
