@@ -62,6 +62,6 @@ Here's my top languages that i used :
 [![website](./img/instagram-light.svg)](https://instagram.com/rgnagam#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/rgnagam#gh-dark-mode-only)
 
-
+---
 
 [webdev]: https://github.com/reganagam
