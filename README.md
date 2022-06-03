@@ -45,6 +45,15 @@ I'm an undergraduate student of electrical engineering in concentration of contr
 <br />
 
 ---
+
+Here's my Github stats :
+
+![Regan's GitHub stats](https://github-readme-stats.vercel.app/api?username=reganagam&count_private=true)
+
+Here's my top languages that i used :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reganagam&layout=compact)](https://github.com/reganagam)
+
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/reganagam/#gh-light-mode-only)
