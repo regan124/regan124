@@ -52,7 +52,7 @@ I'm an undergraduate student of electrical engineering in concentration of contr
 
 #### Here's my top languages that i used :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reganagam&layout=compact)](https://github.com/reganagam)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reganagam&layout=compact&theme=algolia)](https://github.com/reganagam)
 
 ---
 
