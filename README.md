@@ -48,11 +48,11 @@ I'm an undergraduate student of electrical engineering in concentration of contr
 
 #### Here's my Github stats :
 
-![Regan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=reganagam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+[![Regan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=reganagam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/reganagam)
 
 #### Here's my top languages that i used :
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reganagam&layout=compact&langs_count=8&theme=algolia)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reganagam&layout=compact&langs_count=8&theme=algolia)](https://github.com/reganagam)
 
 ---
 
