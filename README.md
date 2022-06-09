@@ -38,8 +38,8 @@ I'm an undergraduate student of electrical engineering in concentration of contr
 [<img align="left" alt="TwidoSuite" width="30px" src="https://img.informer.com/icons/png/128/3398/3398456.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="RS Logic 500" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RSLogix.svg/1200px-RSLogix.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Wonderware InTouch" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg2D4joeggeJH1U1juZv0G3J4ZvX_jm__KuSTyr7KQt1S_Qw5SGujRjhWh2Rejgmx8HrI&usqp=CAU" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Corel Video Studio" width="30px" src="https://1.bp.blogspot.com/-p7InWGwKj50/XX0ihFKsP-I/AAAAAAAA3ZY/_McFcYYavuQrvxeaR_TD22H8L8ruN8QzwCLcBGAsYHQ/s1600/Corel%2BVideoStudio%2BPro%2Blogo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Livewire" width="30px" src="https://alternativesp.com/wp-content/uploads/2021/03/Livewire-600x600.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Corel Video Studio" width="30px" src="https://1.bp.blogspot.com/-p7InWGwKj50/XX0ihFKsP-I/AAAAAAAA3ZY/_McFcYYavuQrvxeaR_TD22H8L8ruN8QzwCLcBGAsYHQ/s1600/Corel%2BVideoStudio%2BPro%2Blogo.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
