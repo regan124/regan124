@@ -19,7 +19,10 @@ I am 3th year undergraduate student of Electrical Engineering in Sriwijaya Unive
 
 ## Work Experience:
 #### 1. [PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022`
-   - 
+   - Engineering, Procurement and Construction (EPC).
+   - Operate and Program Prorammable Logic Controller (PLC).
+   - Operate and Program Distributed Control System (DCS).
+   - Learn the operation of PLC Quadrant Shiploader.
 #### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Now`
    - Learn machine learning using TensorFlow
    - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller
