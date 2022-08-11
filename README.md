@@ -3,7 +3,7 @@
 I am 3th year undergraduate student of Electrical Engineering in Sriwijaya University. Focusing on Control and Computer Engineering. An awardee of Beasiswa Unggulan Kemdikbud 2020. Alumni of Bangkit Academy led by Google, GoTo, Traveloka and Tokopedia. One of presenter in Sriwijaya Electrical National Symposium presented my team project. A Certified TensorFlow Developer and now a student Intern in PT Pupuk Sriwidjaja. Familiar in Python Programming, Mathematic for Machine Learning and using Microsoft Office. Highly organized, detail, and good analytical thinking. A person who really like learning new things for self-improvement and self-goal achievements.
 
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for suggest for Automation and Data Scientist
+- 🤔 I’m looking for suggest for Automation, Data Scientist, Data Engeneer, Data Analyst, Machine Learning Developer
 - 💬 Ask me about anything
 - 📫 How to reach me: rgnagam124@gmail.com
 
@@ -18,12 +18,12 @@ I am 3th year undergraduate student of Electrical Engineering in Sriwijaya Unive
    - Islamic Education Mentor of Liqo'
 
 ## Work Experience:
-#### 1. [PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022`
+#### 1. [PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022 - Now`
    - Engineering, Procurement and Construction (EPC).
    - Operate and Program Prorammable Logic Controller (PLC).
    - Operate and Program Distributed Control System (DCS).
    - Learn the operation of PLC Quadrant Shiploader.
-#### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Now`
+#### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Jul 2022`
    - Learn machine learning using TensorFlow
    - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller
    - Working Real-World Project (Capstone-project)
