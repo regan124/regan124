@@ -26,8 +26,8 @@ I am 3th year undergraduate student of Electrical Engineering in Sriwijaya Unive
 #### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Jul 2022`
    - Learn machine learning using TensorFlow
    - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller
-   - Working Real-World Project (Capstone-project)
-   - Making Skinkr App as Product-based capstone for the project
+   - Working in Real-World Project (Capstone-project)
+   - Made Skinkr App as Product-based capstone for the project
 ---
 
 ### Languages and Tools:
