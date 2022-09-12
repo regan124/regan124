@@ -1,6 +1,6 @@
 # Hi there, I'm Regan Agam 👋
 ## About me:
-I am final year student of Electrical Engineering in Sriwijaya University. Focusing on Control and Computer Engineering. An awardee of Beasiswa Unggulan Kemdikbud 2020. Alumni of Bangkit Academy led by Google, GoTo, Traveloka and Tokopedia. One of presenter in Sriwijaya Electrical National Symposium presented my team project. A Certified TensorFlow Developer and now a student Intern in PT Pupuk Sriwidjaja. Familiar in Python Programming, Mathematic for Machine Learning and using Microsoft Office. Highly organized, detail, and good analytical thinking. A person who really like learning new things for self-improvement and self-goal achievements.
+I am final year student of Electrical Engineering in Sriwijaya University. Focusing on Control and Computer Engineering. An awardee of Beasiswa Unggulan Kemdikbud 2020. Alumni of Bangkit Academy led by Google, GoTo, Traveloka and Tokopedia. Presenter in Sriwijaya Electrical National Symposium. A Certified TensorFlow Developer. Student Intern at PT Pupuk Sriwidjaja. Familiar in Python Programming, Mathematic for Machine Learning, SQL and using Microsoft Office. Highly organized, detail, and good analytical thinking. A person who really like learning new things for self-improvement and self-goal achievements. Currently looking for experience of Data Scientist and Data Analyst.
 
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for suggest for Automation, Data Scientist, Data Engeneer, Data Analyst, Machine Learning Developer
