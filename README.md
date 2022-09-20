@@ -1,6 +1,6 @@
 # Hi there, I'm Regan Agam 👋
 ## About me:
-I am final year student of Electrical Engineering in Sriwijaya University. Focusing on Control and Computer Engineering. An awardee of Beasiswa Unggulan Kemdikbud 2020. Alumni of Bangkit Academy led by Google, GoTo, Traveloka and Tokopedia. Presenter in Sriwijaya Electrical National Symposium. A Certified TensorFlow Developer. Student Intern at PT Pupuk Sriwidjaja. Familiar in Python Programming, Mathematic for Machine Learning, SQL and using Microsoft Office. Highly organized, detail, and good analytical thinking. A person who really like learning new things for self-improvement and self-goal achievements. Currently looking for experience of Data Scientist and Data Analyst.
+I am final year student of Electrical Engineering in Sriwijaya University. Focusing on Control and Computer Engineering. Alumni of Bangkit Academy led by Google, GoTo, Traveloka and Tokopedia. Presenter in Sriwijaya Electrical National Symposium. A Certified TensorFlow Developer. Familiar in Python Programming, Mathematic for Machine Learning, SQL and using Microsoft Office. Highly organized, detail, and good analytical thinking. A person who really like learning new things for self-improvement and self-goal achievements. Entry-level data analytics professional: Recenly completed the Google Data Analytics Professional Certificate. Currently looking for experience of Data Scientist and Data Analyst.
 
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for suggest for Automation, Data Scientist, Data Engeneer, Data Analyst, Machine Learning Developer
@@ -13,21 +13,27 @@ I am final year student of Electrical Engineering in Sriwijaya University. Focus
    - Awardee of Beasiswa Unggulan Kemdikbud 2020
    - Asistant Laboratorium of Basic Electronics & Electrical Sircuits
    - Vice Head of Spiritual Department of Himpunan Mahasiswa Elektro (HME) FT
-#### 2. [SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Lahat `2016 - 2019`
+#### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) | Machine Learning Cohort Student | Indonesia `2022`
+   - Learn machine learning using TensorFlow.
+   - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller.
+   - Working in Real-World Project (Capstone-project).
+   - Made Skinkr App as Product-based capstone for the project.
+#### 3. [SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Lahat `2016 - 2019`
    - Head of Da'wah Media Division of Dewan Kegiatan Masjid (DKM)
    - Islamic Education Mentor of Liqo'
 
 ## Work Experience:
-#### 1. [PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022 - Now`
+#### 1. [PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022`
    - Engineering, Procurement and Construction (EPC).
    - Operate and Program Prorammable Logic Controller (PLC).
    - Operate and Program Distributed Control System (DCS).
    - Learn the operation of PLC Quadrant Shiploader.
-#### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) | Machine Learning Cohort Student | Indonesia `Feb'2022 - Jul 2022`
-   - Learn machine learning using TensorFlow
-   - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller
-   - Working in Real-World Project (Capstone-project)
-   - Made Skinkr App as Product-based capstone for the project
+#### 2. [Sriwijaya University](https://unsri.ac.id) | Laboratory Assistant of Basic Electronics & Electrical Circuits | Palembang `Aug'2022 - Now`
+   - Teach students to understand the basic theory and procedures for using measuring instruments.
+   - Maintain a spreadsheet of 121 students.
+   - Assist students of Electrical Engineering Sriwijaya University for Basic Electronics and Electrical Circuits experiments.
+   - Evaluate students competence after completion of all experiments. 
+
 ---
 
 ### Languages and Tools:
