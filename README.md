@@ -41,7 +41,7 @@ I am final year student of Electrical Engineering in Sriwijaya University. Focus
 [<img align="left" alt="English" width="30px" src="https://cdn.imgbin.com/2/12/12/imgbin-logo-primera-air-organization-business-english-language-british-flag-zSPA9W4mDSMqHmnRnzhgdxHLs.jpg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="TensorFlow" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="SQL" width="30px" src="https://miro.medium.com/max/500/1*5xYx2KgLQaTN8l3yFidiiA.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="SQL" width="50px" src="https://miro.medium.com/max/500/1*5xYx2KgLQaTN8l3yFidiiA.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Word" width="30px" src="https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ=s180-rw" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power Point" width="30px" src="https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M=s180-rw" style="padding-right:10px;" />][webdev]
