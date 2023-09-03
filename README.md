@@ -1,38 +1,42 @@
 # Hi there, I'm Regan Agam 👋
 ## About me:
-I am 4'th year student of Electrical Engineering in Sriwijaya University. Focusing on Control and Computer Engineering. Familiar in Machine Learning, Python Programming, Mathematic for Machine Learning and Microsoft Office. Highly organized, detail, and good analytical thinking. In data field, Versatile individual with experience collecting, trasforming and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for effective data analysis, including SQL, Spreadsheet, Tableau and R Programming. Strong communication, organizational and analytical skills. Recently completed the Google Data Analytics Certificate-a rigorous, hands-on program that covers the entire scope of the data analysis process.
+I am a fresh graduate of Electrical Engineering at Sriwijaya University. Focusing on concentration on Robotics Control and Computer Engineering. Certified Google TensorFlow Developer. Having a bunch of experience in computer science field and an excellent understanding of Machine Learning, Python Programming, Mathematics for Machine Learning, SQL, Spreadsheet, R Programming, and Microsoft Office. Highly organized, detailed, good analytical thinking, strong communication, problem-solving, organizational, fast learning, and troubleshooting skills. In the data field, a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. I have also completed the Google Data Analytics Certificate- a rigorous, hands-on program covering the entire data analysis process scope.
 
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for suggest for Automation, Data Scientist, Data Engeneer, Data Analyst, Machine Learning Developer
+- 🤔 I’m looking for suggestions for Automation, Data Scientist, Data Engineer, Data Analyst, Machine Learning Developer
 - 💬 Ask me about anything
 - 📫 How to reach me: rgnagam124@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Sriwijaya](https://unsri.ac.id) | Undergraduate Student of Electrical Engineering | Indralaya `2019 - Now`
-   - Awardee of Beasiswa Unggulan Kemdikbud 2020
-   - Asistant Laboratorium of Basic Electronics & Electrical Sircuits
-   - Vice Head of Spiritual Department of Himpunan Mahasiswa Elektro (HME) FT
-#### 2. [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) | Machine Learning Cohort Student | Indonesia `2022`
-   - Learn machine learning using TensorFlow.
-   - Deploy machine learning using TensorFlow.js, TensorFlow Lite, and Microcontroller.
-   - Working in Real-World Project (Capstone-project).
-   - Made Skinkr App as Product-based capstone for the project.
-#### 3. [SMA Unggul Negeri 4 Lahat](https://sman4lahat.sch.id) | MIPA | Lahat `2016 - 2019`
-   - Head of Da'wah Media Division of Dewan Kegiatan Masjid (DKM)
-   - Islamic Education Mentor of Liqo'
+#### 1. [Universitas Sriwijaya](https://unsri.ac.id) | Undergraduate Student of Electrical Engineering | Indralaya `Aug 2019 - Aug 2023`
+   - Awardee of Beasiswa Unggulan Kemdikbud 2020.
+   - Assistant Laboratorium of Basic Electronics & Electrical Circuits.
+   - Vice Head of Spiritual Department of Himpunan Mahasiswa Elektro (HME).
+   - Presenter of Sriwijaya Electrical National Symposium (SINES).
+   - Speaker of Scholarship Seminar.
+#### 2. [Bangkit Academy led by Google, Traveloka, Gojek, & Tokopedia](https://grow.google/intl/id_id/bangkit/) | Machine Learning Path Student | Indonesia `Feb 2022 - Jul 2022`
+   - Fully Graduated Student.
+   - Certified Google TensorFlow Developer.
+#### 3. [Fresh Graduate Academy (FGA) by Kominfo, Digitalent Scholarship, IBM, & Dicoding]([https://sman4lahat.sch.id](https://digitalent.kominfo.go.id/program?akademi=FGA)) | Machine Learning Developer Class Student | Indonesia `Oct 2022 - Dec 2022`
+   - One of the best 50 from than 1.000 participants in which got exclusive merchandise.
 
 ## Work Experience:
-#### 1. [PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug'2022`
-   - Engineering, Procurement and Construction (EPC).
-   - Operate and Program Prorammable Logic Controller (PLC).
-   - Operate and Program Distributed Control System (DCS).
-   - Learn the operation of PLC Quadrant Shiploader.
-#### 2. [Sriwijaya University](https://unsri.ac.id) | Laboratory Assistant of Basic Electronics & Electrical Circuits | Palembang `Aug'2022 - Now`
-   - Teach students to understand the basic theory and procedures for using measuring instruments.
-   - Maintain a spreadsheet of 121 students.
-   - Assist students of Electrical Engineering Sriwijaya University for Basic Electronics and Electrical Circuits experiments.
-   - Evaluate students competence after completion of all experiments. 
+#### 1. [Bangkit Academy led by Google, Tokopedia, Gijek, & Traveloka](https://grow.google/intl/id_id/bangkit/) | Machine Learning Path Mentor | Indonesia `Feb 2023 - Present`
+   - Facilitated more than 1.000 cohorts in daily progress and study groups.
+   - Monitored the cohorts in Instructor-led training (ILT) sessions and helped the instructors.
+   - Acted as a role model for the cohorts.
+   - Helped the cohorts to achieve specific goals.
+   - Implemented coaching techniques to help the cohorts.
+   - Provided feedback and encouraged the cohorts.
+   - Followed up on all cohort sessions and progress.
+#### 2. [PT Pupuk Sriwidjaja Palembang (Pusri)](https://www.pusri.co.id) | Student Intern | Palembang `Aug 2022 - Aug 2022`
+   - Learnt operation of Programmable Logic Controller (PLC), Distributed Control System (DCS), and PLC Quadrant Shiploader in the company.
+   - Took to the field to operate all the systems in the company.
+#### 3. [Sriwijaya University](https://unsri.ac.id) | Laboratory Assistant of Basic Electronics & Electrical Circuits | Palembang `Jan 2021 - Dec 2021`
+   - Taught more than 100 cohorts to understand the basic theory and procedures for using measuring instruments.
+   - Maintained data of 121 cohorts in a spreadsheet.
+   - Assisted the cohorts in doing laboratory experiments.
+   - Evaluated the cohort's competencies after completion of all experiments.
 
 ---
 
