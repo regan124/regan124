@@ -17,7 +17,7 @@ I am a fresh graduate of Electrical Engineering at Sriwijaya University. Focusin
 #### 2. [Bangkit Academy led by Google, Traveloka, Gojek, & Tokopedia](https://grow.google/intl/id_id/bangkit/) | Machine Learning Path Student | Indonesia `Feb 2022 - Jul 2022`
    - Fully Graduated Student.
    - Certified Google TensorFlow Developer.
-#### 3. [Fresh Graduate Academy (FGA) by Kominfo, Digitalent Scholarship, IBM, & Dicoding]([https://sman4lahat.sch.id](https://digitalent.kominfo.go.id/program?akademi=FGA)) | Machine Learning Developer Class Student | Indonesia `Oct 2022 - Dec 2022`
+#### 3. [Fresh Graduate Academy (FGA) by Kominfo, Digitalent Scholarship, IBM, & Dicoding](https://digitalent.kominfo.go.id/program?akademi=FGA) | Machine Learning Developer Class Student | Indonesia `Oct 2022 - Dec 2022`
    - One of the best 50 from than 1.000 participants in which got exclusive merchandise.
 
 ## Work Experience:
